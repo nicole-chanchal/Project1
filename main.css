@@ -1,0 +1,13 @@
+body {
+  Background-color: yellow;
+}
+
+
+h1{color: green;}
+
+p { font-family: "Courier New", serif;
+  color: Green;}
+
+img {border-style: dotted;
+	 width: 250px;
+}
